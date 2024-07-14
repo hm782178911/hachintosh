@@ -1,0 +1,2 @@
+# hachintosh
+notes about hackintosh
